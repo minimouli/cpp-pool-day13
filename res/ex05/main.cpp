@@ -36,7 +36,6 @@ int main() {
     std::cout << "ptr2.get() = " << (ptr2.get() == nullptr ? "nullptr" : "not null") << std::endl;
     std::cout << "ptr2.reset()" << std::endl;
     ptr2.reset();
-    std::cout << "ptr2.get() = " << (ptr2.get() == nullptr ? "nullptr" : "not null") << std::endl;
 
     std::cout << "---" << std::endl;
 

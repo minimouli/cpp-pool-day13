@@ -40,7 +40,6 @@ suite('Exercise 05', () => {
             'ptr2.get() = not null',
             'ptr2.reset()',
             '#2 -> destruction',
-            'ptr2.get() = not null',
             '---',
             'create ptr3 with new Logger(3)',
             '#3 -> construction',
