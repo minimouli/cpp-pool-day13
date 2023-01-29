@@ -8,7 +8,8 @@
       "ex02.suite.js",
       "ex03.suite.js",
       "ex04.suite.js",
-      "ex05.suite.js"
+      "ex05.suite.js",
+      "ex06.suite.js"
     ]
   }
 }
